@@ -20,6 +20,6 @@ ul {
 
 .nav-item:hover{
     cursor: pointer;
-    background-color: white;
-    color: #4158D0;
+    background-color:#4158D0;
+    color: white;
 }
