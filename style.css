@@ -9,7 +9,7 @@ header {
     justify-content: center;
 }
 
-ul {
+.nav-lista {
     display: flex;
     list-style: none;
     font-size: 60px;
@@ -18,8 +18,8 @@ ul {
 
 }
 
-.nav-item:hover{
+.nav-item:hover {
     cursor: pointer;
-    background-color:#4158D0;
+    background-color: #4158D0;
     color: white;
 }
